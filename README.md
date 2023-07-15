@@ -10,3 +10,12 @@ In this project, I used SQL to clean, manipulate, and analyze FitBit User data o
   4. Performing basic descriptive statistic calculations using syntaxes such as *AVG*, *MIN*, *MAX*, and *COUNT*
   5. Aggregating separate data files into a single table output to gain a comprehensive understanding of the data using *JOINS*, *LEFT JOIN*, *RIGHT JOIN*, *OUTER JOIN*, *IN*, and *SELF JOINs*
 
+## RStudio Project - [Pacific Ocean Temperature Trends Over the Past Century](https://github.com/sunnyszhang/RStudio/blob/main/Pacific%20Ocean%20Temperature%20Trend%20Past%20Century%20-%20RStudio.pdf)
+In this project, I used public Government of Canada data to determine how the Pacific Ocean's surface level temperature harbouring British Columbia has changed over the past century. Some of the skills highlighted in this project include:
+  1. Creating a R-Markdown (RMD) file for easy review, data sharing, and analysis reporting to peers, colleagues, and my future-self
+  2. Importing and manipulating external data using the *Tidyverse* package found within R
+  3. Cleaning data using a sub-package of the Tidyverse called *dplyr*
+  4. Making visualizations using another sub-package of the Tidyverse called *ggplot*
+  5. Peforming calculations across rows or columns, along with handling fields with error values like "NAs"
+
+ 

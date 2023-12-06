@@ -12,7 +12,7 @@ In this project, I used public Government of Canada data to determine how the Pa
   4. Making visualizations using another sub-package of the Tidyverse called *ggplot*
   5. Peforming calculations across rows or columns, along with handling fields with error values like "NAs"
 
-### Skills Demonstrated
+### Discoveries and Findings
 Our analysis of the dataset indicates that there has been an upwards trend in surface level temperature for the Pacific Ocean based on the 12 various sites for which this data was collected along the coasts of British Columbia. The linear regression model created, illustrating the temperature changes of the past century per season, corroborate this finding. This could be indicative in showcasing the reality behind climate change.  
 
 ## SQL Project - [FitBit User Data](https://github.com/sunnyszhang/SQL_Project/blob/main/Bellabeats%20SQL%20Notebook%20-%20For%20GitHub.ipynb) (Google Data Analytic's Certificate Capstone Project)

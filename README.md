@@ -1,17 +1,6 @@
 # Sunny Zhang's Data Projects Portfolio
 This repository aggregates all of the data projects I've worked on so far. This page is frequently updated to showcase new skills learned through new projects completed. 
 
-## Excel Project - [Pacific Ocean Temperature Trends Over the Past Century](https://github.com/sunnyszhang/ExcelAnalysis/blob/main/Project%202%20-%20Ocean%20Temperature%20and%20Salinity%20in%20British%20Columbia%20-%20Journal.pdf)
-![image](https://github.com/sunnyszhang/DataProjectsPortfolio/assets/73503098/54a44a84-781b-4d48-9740-dfaad723f1f6)
-### Skills Demonstrated
-In this project, I analyze the surface level temperature data of the Pacific Ocean obtained from the Government of Canada's public site. Some skills highlighted in this project include:
-  1. Creating visualizations using Excel's built-in tools
-  2. Importing external CSV files into Excel
-  3. Cleaning and formatting the data with the help of Macros
-  4. Leveraging advanced functions such as VLOOKUPs
-  5. Utilizing conditional formatting to enhance quantitative data presentation
-  6. Generating descriptive statistics using Excel's built-in Analysis Tool-Pak
-
 ## RStudio Project - [Pacific Ocean Temperature Trends Over the Past Century](https://github.com/sunnyszhang/RStudio/blob/main/Pacific%20Ocean%20Temperature%20Trend%20Past%20Century%20-%20RStudio.pdf)
 ![image](https://github.com/sunnyszhang/DataProjectsPortfolio/assets/73503098/214b6d02-6db8-4e54-a81a-1a419b70ba4d)
 
